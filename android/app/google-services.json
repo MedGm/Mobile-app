@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "329450121649",
+    "firebase_url": "https://dm-tarl-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "dm-tarl",
+    "storage_bucket": "dm-tarl.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329450121649:android:f1cf5caca94876a9a57590",
+        "android_client_info": {
+          "package_name": "com.example.tarl_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329450121649-mhe7u566cegj34bl3vh54omg535261bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXm-BkTTBLfk5LdMTNWsFwX8ogS2jeuig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329450121649-mhe7u566cegj34bl3vh54omg535261bp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "329450121649-k1mrquofq564133e37b8nd9hp8ole4r3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tarl.playworks"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329450121649:android:09aa022dd5819da6a57590",
+        "android_client_info": {
+          "package_name": "com.tarl.playworks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329450121649-be4areao19kqp8cdknpmelj71glhtlmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tarl.playworks",
+            "certificate_hash": "dc2d97a0a4f07c4f8c7a87545517abfef216ebdc"
+          }
+        },
+        {
+          "client_id": "329450121649-vrhc18angghv8rut980cq1pu3pgjf0k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tarl.playworks",
+            "certificate_hash": "bc32de3a426f1904e1a11c879e5d6cace0a1531a"
+          }
+        },
+        {
+          "client_id": "329450121649-mhe7u566cegj34bl3vh54omg535261bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXm-BkTTBLfk5LdMTNWsFwX8ogS2jeuig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329450121649-mhe7u566cegj34bl3vh54omg535261bp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "329450121649-k1mrquofq564133e37b8nd9hp8ole4r3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tarl.playworks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

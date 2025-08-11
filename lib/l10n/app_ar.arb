@@ -1,0 +1,12 @@
+{
+  "@@locale": "ar",
+  "appTitle": "تعلم TARL",
+  "homeGreeting": "أهلًا بك",
+  "dailyHighlight": "{kidName} نجح للتو في اختبار {subject}، اطّلع على النتيجة",
+  "@dailyHighlight": {
+    "placeholders": {
+      "kidName": {"type": "String"},
+      "subject": {"type": "String"}
+    }
+  }
+}

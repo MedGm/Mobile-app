@@ -1,0 +1,12 @@
+{
+  "@@locale": "en",
+  "appTitle": "TARL Learning",
+  "homeGreeting": "Welcome",
+  "dailyHighlight": "{kidName} just passed a {subject} test! Check the result.",
+  "@dailyHighlight": {
+    "placeholders": {
+      "kidName": {"type": "String"},
+      "subject": {"type": "String"}
+    }
+  }
+}
